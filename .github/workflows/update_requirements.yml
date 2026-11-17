@@ -11,7 +11,7 @@ on:
 
 jobs:
   update-requirements:
-    if: github.event.pull_request.user.login == 'dependabot[bot]' && github.repository == 'bazelbuild/bazel-central-registry'
+    if: github.event.pull_request.user.login == 'dependabot[bot]' && github.repository == 'venkatynw-vrp-lab/bcr-branch-test-1'
     runs-on: ubuntu-latest
     permissions:
       contents: write

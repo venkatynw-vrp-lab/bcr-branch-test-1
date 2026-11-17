@@ -1,0 +1,17 @@
+{
+  "homepage": "https://example.invalid/canary_mod",
+  "maintainers": [
+    {
+      "github": "VenkatKwest",
+      "github_user_id": 68438061,
+      "name": "VenkatKwest"
+    }
+  ],
+  "repository": [
+    "github:example/canary_mod"
+  ],
+  "versions": [
+    "1.0.0"
+  ],
+  "yanked_versions": {}
+}
